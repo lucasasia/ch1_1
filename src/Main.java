@@ -12,7 +12,7 @@ public class Main {
         for(i=1;i<=10;i++)
         {
             //System.out.println(i);
-            System.out.printf("%d",i);
+            System.out.printf("Ching-Ta Lu");
         }
 	// write your code here
     }
